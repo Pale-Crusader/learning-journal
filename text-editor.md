@@ -39,3 +39,18 @@ Text Editors edit text. Integrated Development Environment is actually a collect
 
 
 Quotes above from ["The Older Coder" from GitHub](https://codefellows.github.io/code-102-guide/curriculum/class-02/Choosing-A-Text-Editor--The-Older-Coder.pdf).
+
+# Terminal
+Terminal is a  ware to directly interface with files and folders via a command prompt style console instead of the regular Graphical user interface. It is opened as an application or program. The console is known as the shell. Like Minecraft command, you can use the up arrow to page up to previous commands you've typed as a shortcutt.
+
+### List of Terminal Commands
+* ls listed everything within directory
+* cd means Change Director
+* pwd is how you find what directory you're in, it stands for Print Working Directory
+* mkdir is command for making directory, it stands for Make Directory
+* touch then file name to make new file name
+* open then file name open files name
+* Ctl + S is Save for file after adding content
+* ls -la listed permissions and history < I need help with this>
+* cat then file name shows the content of the file
+* mv is the command for Moving files
