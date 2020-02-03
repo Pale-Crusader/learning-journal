@@ -1,6 +1,6 @@
 # Welcome to my attempt to Learn to Code
 
-My name is Matthew Stewart. This first is my page created in CodeFellows 102 class. It is about the growth mindset as that is the core to success in this program. I was in a rush to get into a github account so I openned the one I use for my Minecraft Character, which is the username and picture, if you're curious.
+My name is Matthew Stewart. This first is my page created in CodeFellows 102 class. It is about the growth mindset as that is the core to success in this program. I was in a rush to get into a github account so I opened the one I use for my [Minecraft Character](https://github.com/Pale-Crusader), which is the username and picture, if you're curious.
 
 These are the note I wrote about Growth Mindset while listening during class:
 
