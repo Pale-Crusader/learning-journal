@@ -16,7 +16,6 @@ _“A few modern philosopher's assert that an individual's intelligence is a fix
 - Remember though I don't know, it is merely I don't know _yet_.
 
 
-
 Below I am going to leave the GitHub markdown Definition page for future reference
 
 ====
