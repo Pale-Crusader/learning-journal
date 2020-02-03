@@ -2,7 +2,7 @@
 
 Choosing a text editor is a matter of personal preference and what is most important is that you choose one that you can get results in. This is because results are the ultimate proof that you have chosen the "right" (as in _"right for you"_ ) editor.
 
-###This next part is so important I am quoting it verbatim
+### This next part is so important I am quoting it verbatim
 
 > : 1.) code completion; 
 2.) syntax highlighting; 
@@ -38,4 +38,4 @@ Text Editors edit text. Integrated Development Environment is actually a collect
 
 
 
-Quotes above from "The Older Coder" from GitHub.
+Quotes above from ["The Older Coder" from GitHub](https://codefellows.github.io/code-102-guide/curriculum/class-02/Choosing-A-Text-Editor--The-Older-Coder.pdf).
