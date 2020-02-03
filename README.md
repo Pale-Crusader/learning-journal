@@ -15,6 +15,7 @@ _“A few modern philosopher's assert that an individual's intelligence is a fix
 - Learn from mistakes.  
 - Remember though I don't know, it is merely I don't know _yet_.
 
+To summarize what the growth mindset is, essentially it is being willing to push past preconcieved limits you've set for yourself and embrace new thinking and pushing through difficulty.
 
 Below I am going to leave the GitHub markdown Definition page for future reference
 
