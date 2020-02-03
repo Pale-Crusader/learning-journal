@@ -2,9 +2,12 @@
 
 My name is Matthew Stewart. This first is my page created in CodeFellows 102 class. It is about the growth mindset as that is the core to success in this program. I was in a rush to get into a github account so I openned the one I use for my Minecraft Character, which is the username and picture, if you're curious.
 
-These are the note I wrote about Growth Mindset while listening:
+These are the note I wrote about Growth Mindset while listening during class:
 
-"Learning is possible" paraphrase of Alfred Binet creator of IQ Test
+"Learning is possible" paraphrase of Alfred Binet creator of IQ Test (
+
+The actual  quote which I looked up to post here:
+_“A few modern philosopher's assert that an individual's intelligence is a fixed quantity, a quantity which cannot be increased. We must protest and react against this brutal pessimism.... With practice, training, and above all, method, we manage to increase our attention, our memory, our judgment and literally to become more intelligent than we were before.”_ ~Alfred Binet
 
 ## List of reminders
 - If I feel like I need to give up, instead I need to try new strategy.
