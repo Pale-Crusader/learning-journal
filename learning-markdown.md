@@ -48,6 +48,14 @@ function fancyAlert(arg) {
 }
 ```
 
+also indenting by 4 spaces
+
+    function fancyAlert(arg) {
+      if(arg) {
+        $.facebox({div:'#foo'})
+      }
+    }
+
 to notify another github user
 @ before username
 
