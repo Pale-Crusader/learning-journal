@@ -1,4 +1,4 @@
-#Text Editors and IDEs
+# Text Editors and IDEs
 
 Choosing a text editor is a matter of personal preference and what is most important is that you choose one that you can get results in. This is because results are the ultimate proof that you have chosen the "right" (as in _"right for you"_ ) editor.
 
