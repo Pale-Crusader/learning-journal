@@ -64,18 +64,6 @@ Inline Quotes
 I think you should use an
 `<addr>` element here instead.
 
-I asked about 
+I asked about SHA references and Issue references within a repository because they did not make sense to me, (at the time) and was told we'd cover that later in class. To future me looking back reading this, I'm looking forward to knowing that!
 
 
-
-
-
-
-
-
-
-
-
-
-
-mojombo/github-flavored-markdown#1
