@@ -4,7 +4,7 @@ My name is Matthew Stewart. This first is my page created in CodeFellows 102 cla
 
 These are the note I wrote about Growth Mindset while listening during class:
 
-"Learning is possible" paraphrase of Alfred Binet creator of IQ Test (
+"Learning is possible" paraphrase of Alfred Binet creator of IQ Test
 
 The actual  quote which I looked up to post here:
 _“A few modern philosopher's assert that an individual's intelligence is a fixed quantity, a quantity which cannot be increased. We must protest and react against this brutal pessimism.... With practice, training, and above all, method, we manage to increase our attention, our memory, our judgment and literally to become more intelligent than we were before.”_ ~Alfred Binet
