@@ -20,6 +20,7 @@ Syntax highlighted code block
 [Link](url) and ![Image](src)
 
 Table
+
 First Header | Second Header
 ------------ | -------------
 Content from cell 1 | Content from cell 2
