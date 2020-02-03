@@ -5,6 +5,8 @@
 markdown
 Syntax highlighted code block
 
+<!--This is how to Comment -->
+
 # Header 1
 ## Header 2
 ### Header 3
