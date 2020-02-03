@@ -1,6 +1,26 @@
-## Welcome to GitHub Pages
+#Welcome to my attempt to Learn to Code
 
-### We made changes
+
+
+This first page is about the growth mindset.
+
+These are the note I wrote about Growth Mindset while listening:
+
+"Learning is possible" paraphrase of Alfred Binet creator of IQ Test
+
+##List of reminders
+- If I feel like I need to give up, instead I need to try new strategy.
+- These classes and coding is *MEANT* to be hard. 
+- Learn from mistakes.  
+- Remember though I don't know, it is merely I don't know _yet_.
+
+
+
+Below I am going to leave the GitHub markdown Definition page for future reference
+
+====
+
+## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/Pale-Crusader/learning-journal/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
