@@ -2,7 +2,7 @@
 
 
 
-```markdown
+markdown
 Syntax highlighted code block
 
 # Header 1
@@ -53,7 +53,6 @@ to notify another github user
 Strike Through
 ~~this~~
 
-```
 
 I asked about 
 
