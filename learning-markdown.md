@@ -54,6 +54,15 @@ to notify another github user
 Strike Through
 ~~this~~
 
+Block Quotes
+As Tywin Lanister said:
+
+> The history of the world
+> is the history of interesting conversations.
+
+Inline Quotes
+I think you should use an
+`<addr>` element here instead.
 
 I asked about 
 
