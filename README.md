@@ -2,7 +2,7 @@
 
 
 
-This first page is about the growth mindset.
+My name is Matthew Stewart. This first is my page created in CodeFellows 102 class. It is about the growth mindset as that is the core to success in this program..
 
 These are the note I wrote about Growth Mindset while listening:
 
