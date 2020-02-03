@@ -58,3 +58,7 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 ### Support or Contact
 
 Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+
+
+[Link to Markup Reference](https://pale-crusader.github.io/learning-journal/learning-markdown)
+[Link to Text Editors, IDE, and Terminal Manipulation of files and folders](https://pale-crusader.github.io/learning-journal/text-editor) 
