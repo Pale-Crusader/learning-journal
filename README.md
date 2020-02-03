@@ -1,4 +1,4 @@
-#Welcome to my attempt to Learn to Code
+# Welcome to my attempt to Learn to Code
 
 
 
@@ -8,9 +8,9 @@ These are the note I wrote about Growth Mindset while listening:
 
 "Learning is possible" paraphrase of Alfred Binet creator of IQ Test
 
-##List of reminders
+## List of reminders
 - If I feel like I need to give up, instead I need to try new strategy.
-- These classes and coding is *MEANT* to be hard. 
+- These classes and coding is **MEANT** to be hard. Presevere and triumph.
 - Learn from mistakes.  
 - Remember though I don't know, it is merely I don't know _yet_.
 
