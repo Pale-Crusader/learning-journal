@@ -4,7 +4,7 @@ Choosing a text editor is a matter of personal preference and what is most impor
 
 ### This next part is so important I am quoting it verbatim
 
-> : 1.) code completion;  
+> 1.) code completion;  
 2.) syntax highlighting;  
 3.) a nice variety of themes (to reduce eye strain and fatigue); and  
 4.) the ability to choose from a healthy selection of extensions available when you need them.
