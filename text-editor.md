@@ -54,3 +54,6 @@ Terminal is a  ware to directly interface with files and folders via a command p
 * ls -la listed permissions and history < I need help with this>
 * cat then file name shows the content of the file
 * mv is the command for Moving files
+
+This is what I did to confirm my setup for tomorrow.
+![img](https://pale-crusader.github.io/learning-journal/SetUp.PNG)
