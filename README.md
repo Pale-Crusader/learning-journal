@@ -8,3 +8,5 @@ My name is Matthew Stewart. This first is my page created in CodeFellows 102 cla
 * [Link to Text Editors, IDE, and Terminal Manipulation of files and folders](https://pale-crusader.github.io/learning-journal/text-editor) 
 * [Link to Git-Demo Command lines](https://pale-crusader.github.io/learning-journal/git-demo)
 * [Link to notes taken about Git and GitHub](https://pale-crusader.github.io/learning-journal/git-notes-01)
+* [Link to my reading Assignment about Git and GitHub, first day](https://pale-crusader.github.io/learning-journal/git-reading-01)
+* [Link to my reading Assignment about HTML, first day](https://pale-crusader.github.io/learning-journal/HTML-reading-01)  
