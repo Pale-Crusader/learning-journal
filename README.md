@@ -1,6 +1,11 @@
 # Welcome to my attempt to Learn to Code
 
-My name is Matthew Stewart. This first is my page created in CodeFellows 102 class. It is about the growth mindset as that is the core to success in this program. I was in a rush to get into a github account so I opened the one I use for my [Minecraft Character](https://github.com/Pale-Crusader), which is the username and picture, if you're curious.
+My name is Matthew Stewart. This first is my page created in CodeFellows 102 class. It is about the growth mindset as that is the core to success in this program. My [GitHub](https://github.com/Pale-Crusader) account was originally Minecraft Character, both is the username and picture, but I have since changed the image to myself as per Assignment directions.
+
+## Table of Contents
+* [Link to Markup Reference](https://pale-crusader.github.io/learning-journal/learning-markdown)  
+* [Link to Text Editors, IDE, and Terminal Manipulation of files and folders](https://pale-crusader.github.io/learning-journal/text-editor) 
+* [Link to Git-Demo Command lines](https://pale-crusader.github.io/learning-journal/git-demo)
 
 These are the note I wrote about Growth Mindset while listening during class:
 
@@ -46,6 +51,7 @@ Syntax highlighted code block
 
 **Bold** and _Italic_ and `Code` text
 
+
 [Link](url) and ![Image](src)
 ```
 
@@ -59,6 +65,3 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 
 Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
 
-
-[Link to Markup Reference](https://pale-crusader.github.io/learning-journal/learning-markdown)
-[Link to Text Editors, IDE, and Terminal Manipulation of files and folders](https://pale-crusader.github.io/learning-journal/text-editor) 

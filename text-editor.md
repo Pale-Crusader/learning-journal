@@ -54,6 +54,11 @@ Terminal is a  ware to directly interface with files and folders via a command p
 * ls -la listed permissions and history < I need help with this>
 * cat then file name shows the content of the file
 * mv is the command for Moving files
+* ls -a List hidden files too
+* ls -la Long list 
+* Tab to auto complete when directories have only
+* code . Will command VScode to open all the files within the directory/repository which you are in
+* commit -m  "dash m is for modify and this comment is in these quotes"
 
-This is what I did to confirm my setup for tomorrow.
+## This is what I did to confirm my setup for tomorrow.
 ![img](https://pale-crusader.github.io/learning-journal/SetUp.PNG)
