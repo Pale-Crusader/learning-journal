@@ -6,6 +6,7 @@ My name is Matthew Stewart. This first is my page created in CodeFellows 102 cla
 * [Link to Markup Reference](https://pale-crusader.github.io/learning-journal/learning-markdown)  
 * [Link to Text Editors, IDE, and Terminal Manipulation of files and folders](https://pale-crusader.github.io/learning-journal/text-editor) 
 * [Link to Git-Demo Command lines](https://pale-crusader.github.io/learning-journal/git-demo)
+* [Link to notes taken about Git and GitHub](https://pale-crusader.github.io/learning-journal/git-notes-01)
 
 These are the note I wrote about Growth Mindset while listening during class:
 
