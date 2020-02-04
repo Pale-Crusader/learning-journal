@@ -1,6 +1,6 @@
 # Welcome to my attempt to Learn to Code
 
-My name is Matthew Stewart. This first is my page created in CodeFellows 102 class. It is about the growth mindset as that is the core to success in this program. My [GitHub](https://github.com/Pale-Crusader) account was originally Minecraft Character, both is the username and picture, but I have since changed the image to myself as per Assignment directions.
+My name is Matthew Stewart. This first is my page created in CodeFellows 102 class. It is about the growth mindset as that is the core to success in this program. My [GitHub](https://github.com/Pale-Crusader) account was originally for my Minecraft Character, both as the username and picture, but I have since changed the image to myself as per Assignment directions.
 
 ## Table of Contents
 * [Link to Markup Reference](https://pale-crusader.github.io/learning-journal/learning-markdown)  
