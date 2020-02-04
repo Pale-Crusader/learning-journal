@@ -1,77 +1,6 @@
 This is where I am copy pasting the command prompt from going through the Git-Demo for future analysis.
 
-````'There Goes My Everything.wma'
-"There's a New Moon over My Shoulder.wma"
-'Too Many Hands.wma'
-'Train Leaves Here This Morning.wma'
-"Travelin' Man.wma"
-'Troubadours [ ][Alternate Take].wma'
- Troubadours.wma
-'True Gentleman.wma'
-'True Love.wma'
-'Try and Love Again.wma'
-'Victim of Love [The Millennium Concert].wma'
- Videos
-"Walkin' After Midnight.wma"
-'Wasted Time (Reprise).wma'
-'Wasted Time.wma'
-"We Ain't Much Different.wma"
-'What About Georgia.wma'
-"What's Your Name.wma"
-'White Lightning.wma'
-'Will He Ever Go Away.wma'
-'Winter World of Love.wma'
-'Wish I Were Only Lonely.wma'
-'Witchy Woman.wma'
-'Yellow Bandana.wma'
-'Yellow Moon.wma'
-'You Got That Right.wma'
-"You Know What They're Writing About.wma"
-'You Make Me Feel So Free.wma'
-'You'\''re Breathin'\'' It [Urban NYC Mix].wma'
-"You're Breathin' It.wma"
-"You're the One I Dream About.wma"
-'You'\''ve Got A Good Love Comin&quot;.wma'
-"Your Cheatin' Heart.wma"
-'Your Filthy Little Mouth.wma'
- dwhelper
- ntuser.dat
- ntuser.dat.LOG1
- ntuser.dat.LOG2
- ntuser.dat{343ed895-c5c0-11e4-845c-1c659d8db015}.TM.blf
- ntuser.dat{343ed895-c5c0-11e4-845c-1c659d8db015}.TMContainer0000000000000000000
-1.regtrans-ms
- ntuser.dat{343ed895-c5c0-11e4-845c-1c659d8db015}.TMContainer0000000000000000000
-2.regtrans-ms
- ntuser.dat{63ae62e4-7bfc-11e2-9276-1c659d8db015}.TM.blf
- ntuser.dat{63ae62e4-7bfc-11e2-9276-1c659d8db015}.TMContainer0000000000000000000
-1.regtrans-ms
- ntuser.dat{63ae62e4-7bfc-11e2-9276-1c659d8db015}.TMContainer0000000000000000000
-2.regtrans-ms
- ntuser.dat{63e5bc6c-983e-11e4-ba82-1c659d8db015}.TM.blf
- ntuser.dat{63e5bc6c-983e-11e4-ba82-1c659d8db015}.TMContainer0000000000000000000
-1.regtrans-ms
- ntuser.dat{63e5bc6c-983e-11e4-ba82-1c659d8db015}.TMContainer0000000000000000000
-2.regtrans-ms
- ntuser.dat{77a9e6d2-d1f5-11e2-bf2f-1c659d8db015}.TM.blf
- ntuser.dat{77a9e6d2-d1f5-11e2-bf2f-1c659d8db015}.TMContainer0000000000000000000
-1.regtrans-ms
- ntuser.dat{77a9e6d2-d1f5-11e2-bf2f-1c659d8db015}.TMContainer0000000000000000000
-2.regtrans-ms
- ntuser.dat{e0456e37-08b7-11e5-977a-1c659d8db015}.TM.blf
- ntuser.dat{e0456e37-08b7-11e5-977a-1c659d8db015}.TMContainer0000000000000000000
-1.regtrans-ms
- ntuser.dat{e0456e37-08b7-11e5-977a-1c659d8db015}.TMContainer0000000000000000000
-2.regtrans-ms
- ntuser.dat{eb27efd4-754f-11e6-8c03-1c659d8db015}.TM.blf
- ntuser.dat{eb27efd4-754f-11e6-8c03-1c659d8db015}.TMContainer0000000000000000000
-1.regtrans-ms
- ntuser.dat{eb27efd4-754f-11e6-8c03-1c659d8db015}.TMContainer0000000000000000000
-2.regtrans-ms
- ntuser.ini
- ntuser.pol
-
-C:\Users\Owner>cd Desktop
+```C:\Users\Owner>cd Desktop
 
 C:\Users\Owner\Desktop>ls
  18w14b                                        'Watch TV and Movies.url'
@@ -299,4 +228,5 @@ nothing to commit, working tree clean
 
 C:\Users\Owner\Desktop\projects\learning-journal>code .
 
-C:\Users\Owner\Desktop\projects\learning-journal> ````
+C:\Users\Owner\Desktop\projects\learning-journal> 
+````
