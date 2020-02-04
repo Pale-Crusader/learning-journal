@@ -57,3 +57,18 @@ Headings help organize.
 * Context, lets the use intuit where it leads
 * Interactive, links react to user user or hovering over
 * Consistent, keep everything feeling like a part of a greater whole
+
+# Now to chapter 1!
+
+Uses written document analogy for formatting.
+
+Proceeds to word documents which I am familiar with from my RolePlaying Game hobby, where I write fan-made material for fun.
+
+Defines HTML for its purpose, which is to organize the page. Even showing it.
+
+<!-- (right-click and choose view source code, that how I used to try and puzzle out elements back in geocities days, lol wish I really understood what I was doing back then) -->
+
+Page 21 is a _LOVELY_ diagram for the structure.
+
+It explains tags.
+
