@@ -72,3 +72,26 @@ Page 21 is a _LOVELY_ diagram for the structure.
 
 It explains tags.
 
+Rough attempt
+
+```<!DOCTYPEHTML>
+<html>
+    <body>
+        <header>
+            <nav>
+                <ul>
+                  <li>
+                  </li>
+                  <li>
+                  </li>
+                  <li>
+                  </li>
+                </ul>
+            </nav>
+        </header>
+        <main>
+        </main>
+        <footer>
+        </footer>
+    </body>
+<html>```
