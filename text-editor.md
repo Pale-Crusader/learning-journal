@@ -2,6 +2,8 @@
 
 Choosing a text editor is a matter of personal preference and what is most important is that you choose one that you can get results in. This is because results are the ultimate proof that you have chosen the "right" (as in _"right for you"_ ) editor.
 
+### [Main Page](https://pale-crusader.github.io/learning-journal)
+
 ### This next part is so important I am quoting it verbatim
 
 > 1.) code completion;  

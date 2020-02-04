@@ -1,39 +1,8 @@
 This is where I am copy pasting the command prompt from going through the Git-Demo for future analysis.
 
-```C:\Users\Owner>cd Desktop
+### [Main Page](https://pale-crusader.github.io/learning-journal)
 
-C:\Users\Owner\Desktop>ls
- 18w14b                                        'Watch TV and Movies.url'
- 207207mortgagepaymentconfirmation.PNG          WinDirStat.lnk
-'AOL and Internet Free Trial!.lnk'              Write
- Arkon.PNG                                      Zugbrücken-large.pdn
-'Articles).txt'                                 Zugbrücken-large.png
- Camera                                         Zugbrücken.bmp
- Certificates.txt                               Zugbrücken.png
-'Class notes-20200203.txt'                      ancientalienbeacon.txt
-'Clip 2.0'                                      before-after.jpg
- ConspiracyWebsite                              chieron-research-inside.jpg
-'Disk Cleanup.lnk'                              chieron-research.jpg
- ElementalZones.pdn                             desktop.ini
- ElementalZones.png                             frailty-fluff-intro.txt
-'Fantasy Grounds.url'                           helpful-links.pdf
-'Frailty Chronicle Ephemeral Entities.txt'      korora-23-x86_64-gnome.iso
-'Hallmark Card Studio 2006.lnk'                 learning-journal
-'Internet Options - Shortcut (2).lnk'           left-after.jpg
-'MageMystery Cults.docx'                        left-before.jpg
-'Markletter-for Judge.doc'                     'mystery cult-hunters.txt'
- Mechanism.txt                                  nativelog.txt
- Mechanismpart1.txt                            'new 1.txt'
- NetworkIssueAtCodeFellows.PNG                 'new mods'
-'New Text Document (2).txt'                    'pananiod commands.txt'
-'New Text Document.txt'                         password.txt
-'OR CAN Form-complete.pdf'                      recipes
-'OpenOffice 4.1.4 (en-US) Installation Files'   right-after.jpg
- PenguinSite.txt                                right-before.jpg
- SeekTheTruthArticles.txt                       templates.txt
- SetUp.PNG                                     'unused mods'
- Strip-Format.txt                              'working copy'
-'Visual Studio Code.lnk'
+```C:\Users\Owner>cd Desktop
 
 C:\Users\Owner\Desktop>cd projects
 

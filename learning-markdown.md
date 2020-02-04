@@ -1,6 +1,6 @@
 # Welcome to my Markdown Repository
 
-
+### [Main Page](https://pale-crusader.github.io/learning-journal)
 
 markdown
 Syntax highlighted code block
