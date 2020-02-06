@@ -1,4 +1,4 @@
-#Stream of conscious notes
+# Stream of conscious notes
 
 ### [Main Page](https://pale-crusader.github.io/learning-journal)
 
