@@ -11,5 +11,7 @@ My name is Matthew Stewart. This first is my page created in CodeFellows 102 cla
 * [Link to my reading Assignment about Git and GitHub, first day](https://pale-crusader.github.io/learning-journal/git-reading-01)
 * [Link to my reading Assignment about HTML, first day](https://pale-crusader.github.io/learning-journal/html-reading-01)
 * [Link to my reading Assignment about CSS, along with my in class notes, first day](https://pale-crusader.github.io/learning-journal/css-reading-01)
-* [Link to my reading Assignment aboutJavascript, which is morely my commenting in the code and notes after](https://pale-crusader.github.io/learning-journal/javareading-workalong)
+* [Link to my reading Assignment about Javascript 1, which is morely my commenting in the code and notes after](https://pale-crusader.github.io/learning-journal/javareading-workalong)
 * [Link to my reading Assignment video](https://pale-crusader.github.io/learning-journal/video)
+* [Link to my reading Assignment about Javascript 2, which is morely my commenting in the code and notes after](https://pale-crusader.github.io/learning-journal/javascript-learning-2)
+* [Link to my reading Assignment about Javascript 3, which is morely my commenting in the code and notes after](https://pale-crusader.github.io/learning-journal/javascript-learning-3)
